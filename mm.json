@@ -38,10 +38,19 @@
   "rx/sfx": "./xmrig --config=config.json",
   "cn/r": "./xmrig --config=config.json",
   "cn/gpu": "./xmrig --config=config.json",
-  "cn/half": "./xmrig --config=config.json",
-  "cn-heavy/xhv": "./xmrig --config=config.json"
+  "cn/half": "./xmrig --config=config.json"
  },
  "algo_perf": {
+  "cn-lite/0": 898.8,
+  "cn-lite/1": 898.8,
+  "cn-heavy/xhv": 451.1,
+  "cn/ccx": 811.5,
+  "cn/0": 405.75,
+  "astrobwt": 922.7,
+  "rx/0": 294,
+  "rx/sfx": 294,
+  "rx/graft": 268.5,
+  "rx/arq": 1173.6
  },
  "algo_min_time": 0,
  "user": "49rbqr6AaBbNYUTUgPwEpAPickRjHSX3kRreVyHXfeknDhUviK5sJu9F187fzHCTENQ5sfkxaUD221EoERwbTxVY9e476Ua",
